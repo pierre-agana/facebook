@@ -293,27 +293,27 @@
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
                    <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
-                   Toor
+                   Software Ekinte
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
                    <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
-                   Toor
+                   Hacker root
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
                    <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
-                   Toor
+                   Toor Root
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
                    <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
-                   Toor
+                  Coeur de lion
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
                    <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
-                   Toor
+                   Ange root
                </div>
            </div>
            <hr class="my-4">
