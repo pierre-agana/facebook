@@ -146,7 +146,7 @@
 
         <div class="shadow-md bg-white my-3 mx-6 w-3/5 h-16 rounded-md flex items-center">
             <div class="ml-2 py-1 px-2 rounded-full border-blue-200 border-solid border-2 justify-center items-center">
-                <div class="flex-grow flex px-2 py-1 font-semibold justify-center items-center  text-blue-600">
+                <div class="flex-grow flex px-1 py-1 font-semibold justify-center items-center  text-blue-600">
                     <img class="mr-1" src="{{asset('/images/room.png')}}" alt="">
                     Créer un salon
                 </div>
@@ -183,11 +183,6 @@
                    </div>
                </div>
                <div class=" py-1 px-1 items-center">
-                   <img src="{{asset('/images/swd9.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
-                   <div class="w-1/5 p-1 bg-green-500 rounded-full relative md:relative sticky bottom-2 left-7">
-                   </div>
-               </div>
-               <div class=" py-1 px-1 items-center">
                    <img src="{{asset('/images/boo.png')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/5 p-1 bg-green-500 rounded-full relative md:relative sticky bottom-2 left-7">
                    </div>
@@ -205,9 +200,9 @@
                     <h4 class="font-semibold">Agana</h4>
                     <div class="text-sm text-gray-500">04 Mai, 90:30</div>
                 </div>
-                <div class="justify-end float-left">
+                {{--<div class="justify-end float-left">
                     <i class="fas fa-plus "></i>
-                </div>
+                </div>--}}
             </div>
             <div class="m-2">
                <div class="text-gray-500 font-semibold text-sm  ">
@@ -253,7 +248,7 @@
                <div class=" flex-grow flex px-3 py-2 font-semibold text-lg  justify-center items-center ">
                  <h1> Contacts</h1>
                </div>
-               <div class="  flex justify-center">
+               {{--<div class="  flex justify-center">
                    <svg fill="currentColor" viewBox="0 0 16 16" width="20" height="20" class="a8c37x1j ms05siws l3qrxjdp b7h9ocf4 py1f6qlh gl3lb2sf hhz5lgdu"><g fill-rule="evenodd" transform="translate(-448 -544)"><path d="M457.25 552.5H455v2.25a.75.75 0 0 1-1.5 0v-2.25h-2.25a.75.75 0 0 1 0-1.5h2.25v-2.25a.75.75 0 0 1 1.5 0V551h2.25a.75.75 0 0 1 0 1.5m6.38-4.435a.62.62 0 0 0-.64.047l-2.49 1.634v-1.394a1.854 1.854 0 0 0-1.852-1.852l-8.796.002a1.854 1.854 0 0 0-1.851 1.852v6.793c0 1.021.83 1.852 1.852 1.852l1.147-.002h7.648a1.854 1.854 0 0 0 1.852-1.851v-1.392l2.457 1.61a.641.641 0 0 0 .673.071.663.663 0 0 0 .37-.601v-6.167c0-.26-.142-.49-.37-.602"></path></g></svg>
                </div>
                <div class="  flex  justify-center items-center">
@@ -261,7 +256,7 @@
                </div>
                <div class="  flex justify-center items-center ">
                    <img class="" src="{{asset('/images/activity.png')}}" alt="">
-               </div>
+               </div>--}}
            </div>
 
            <div class="-screen bg-gray-100">
@@ -271,42 +266,42 @@
                    Toor
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/myday-p3.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Toor
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/myday-p4.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Toor
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/emma-square-1.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Toor
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/pp8.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Toor
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/pp9.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Software Ekinte
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/pp10.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Hacker root
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/boo.png')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                    Toor Root
                </div>
                <div class="flex px-3 py-2 font-semibold rounded-lg  m-2 text-xs hover:bg-gray-200 items-center">
-                   <img src="{{asset('/images/myday-p2.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
+                   <img src="{{asset('/images/myday-p4.jpg')}} " alt="" width="45" height="45" class="mr-1 rounded-full">
                    <div class="w-1/7 p-1 bg-green-500 rounded-full relative md:relative sticky top-5 right-4"></div>
                   Coeur de lion
                </div>
